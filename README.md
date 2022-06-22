@@ -1,9 +1,6 @@
 # SENDAS - SISTEMA DE GESTION 
 ## **BACKEND**
 
-### **Repositorio**
-[https://github.com/dgcabanillas/sendas-sg-server](https://github.com/dgcabanillas/sendas-sg-server)
-
 ### **Ramas**
 - **feature/[ task-id ~ task-name ]**
     - Se crearan ramas a partir de ``develop`` para resolver las tareas asignadas.

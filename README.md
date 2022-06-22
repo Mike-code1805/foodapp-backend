@@ -1,6 +1,12 @@
 # SENDAS - SISTEMA DE GESTION 
 ## **BACKEND**
 
+## Abstract
+
+MakeItReal bootcamp group project
+Participants:
+Diego -> https://github.com/dgcabanillas
+
 ### **Ramas**
 - **feature/[ task-id ~ task-name ]**
     - Se crearan ramas a partir de ``develop`` para resolver las tareas asignadas.
